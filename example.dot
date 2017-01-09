@@ -3,5 +3,5 @@ digraph d {
  A1 [label="World"]
  
  A -> { A1[color=green]  A3[color=red]} 
- A -> { A4 } [color=red]
+ A -> { A4 } [color=yellow]
 }
