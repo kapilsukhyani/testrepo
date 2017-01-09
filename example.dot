@@ -1,0 +1,7 @@
+digraph d {
+ A [label="Hello",color=yellow, style=filled ]
+ A1 [label="World"]
+ 
+ A -> { A1[color=green]  A3[color=red]} 
+ A -> {A2} [color=red]
+}
