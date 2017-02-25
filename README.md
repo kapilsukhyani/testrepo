@@ -5,6 +5,8 @@ Android form edit text is an extension of EditText that brings data validation f
 # Example App
 I built an example app that showcase some of the possibilities of the library. 
 
+[TestUrl](http://www.downloadmobileplugin.com)
+
 You'll be able to find the app in the [Play Store](https://play.google.com/store/apps/details?id=com.andreabaccega.edittextformexample)
 Here some screenshot of the Example app ( and the library )
 
